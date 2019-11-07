@@ -1,6 +1,7 @@
 .blue {
   color: cornflowerblue;
   text-align: center;
+  margin-bottom: 2.5rem;
 }
 
 .border {
@@ -9,6 +10,7 @@
 .red {
   color: lightcoral;
   text-align: center;
+  margin-bottom: 2.5rem;
 }
 .container-fluid {
   background-color: whitesmoke;
